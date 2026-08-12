@@ -56,56 +56,6 @@ Currently focused on expanding my skills in **Full-Stack Web Development**, whil
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏛️ Grand Egyptian Museum Website
-
-A web project showcasing the **Grand Egyptian Museum**, including dedicated pages for museum photos and videos.
-
-**Tech:** HTML
-
----
-
-### 🏥 Hospital Appointment Booking System
-
-A C++ application for managing **hospital appointments and patient-related operations**, built as an application of object-oriented programming concepts.
-
-**Tech:** C++ · OOP
-
----
-
-### 🍔 Al-Menus Backend
-
-A university backend project for **Al-Menus**, developed in C++ with a focus on applying **Object-Oriented Programming principles**.
-
-**Tech:** C++ · OOP
-
----
-
-### ⚡ EnergyGrid Management System
-
-A desktop application developed for managing an **energy-grid system**, demonstrating object-oriented programming and software engineering concepts.
-
-**Tech:** C# · Windows Forms · OOP
-
----
-
-### 🌳 Hospital Appointment Management System — BST
-
-A hospital appointment management project implementing a **Binary Search Tree** to organize and manage appointment-related data.
-
-**Tech:** C++ · Data Structures · BST
-
----
-
-### 🟢 MEAN Stack Project
-
-A web development project created during my **NTI MEAN Stack training**, applying JavaScript-based technologies across the frontend, backend, and database layers.
-
-**Tech:** JavaScript · Angular · Node.js · Express · MongoDB
-
----
-
 ## 📚 Currently Learning
 
 ```text
