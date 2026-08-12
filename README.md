@@ -111,24 +111,43 @@ My goal is to become a well-rounded **Software Engineer** capable of designing, 
 
 ---
 
-## 🤝 Experience & Activities
+## 💼 Experience & Activities
+
+### 🌐 MEAN Stack Trainee — NTI
+**National Telecommunication Institute**
+
+📅 August 2026 – September 2026
+
+- 🚀 Trained in the **MEAN Stack**: MongoDB, Express.js, Angular, and Node.js
+- 🔧 Developed full-stack web applications and **REST APIs**
+- 🌿 Worked with **Git & GitHub** and modern web development practices
+- 💻 Strengthened my understanding of full-stack application development
+
+**Tech:** MongoDB · Express.js · Angular · Node.js · JavaScript · Git · GitHub
+
+---
 
 ### 🛡️ IEEE CUSB — Cybersecurity Committee
+**Participant**
 
-Hands-on training in:
+📅 March 2025 – August 2026
 
-* Web Application Security
-* Penetration Testing
-* OWASP Vulnerabilities
-* Linux
-* Networking
-* Security Assessment
+- 🔐 Completed hands-on training in **Web Application Security and Penetration Testing**
+- 🛡️ Studied **OWASP vulnerabilities** and security assessment fundamentals
+- 🐧 Gained practical exposure to **Linux and Networking**
+- 🔎 Explored web security and penetration testing concepts
+
+---
 
 ### 👥 IEEE FCIH SB — HR Member
 
+📅 January 2025 – June 2025
+
 🏆 **Best Member in Phase One**
 
-Focused on teamwork, communication, accountability, and driving team progress.
+- 🤝 Contributed to team activities and member engagement
+- 📈 Helped drive team progress through communication and accountability
+- 🧠 Developed leadership, teamwork, and organizational skills
 
 ---
 
