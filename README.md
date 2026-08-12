@@ -1,4 +1,4 @@
-# Hey, I'm Omar 👋
+# Hey, I'm Omar Osama
 
 ### Aspiring Software Engineer | Software Engineering Student
 
