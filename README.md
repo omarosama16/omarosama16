@@ -64,35 +64,31 @@ I'm also continuing to explore:
 **DevOps · Linux · Networking · Cybersecurity**
 
 ---
-
 ## 📊 GitHub Activity
 
 <div align="center">
 
 ### 🔥 Keep Building
 
-![GitHub Streak](https://streak-stats.demolab.com?user=omarosama16\&theme=github-dark-blue\&hide_border=true)
+<img src="https://github-stats-extended.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
 
-<br/>
-
-### 📈 GitHub Statistics
-
-<img src="https://github-readme-stats.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarosama16&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omarosama16&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
 
 </div>
 
----
-
-## 🐍 Contribution Activity
+<br>
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/omarosama16/omarosama16/output/github-contribution-grid-snake-dark.svg)
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/omarosama16/omarosama16/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/omarosama16/omarosama16/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/omarosama16/omarosama16/output/github-snake.svg">
+</picture>
 
 </div>
-
 ---
 
 ## 🎯 What I'm Working Towards
