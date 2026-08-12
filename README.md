@@ -1,97 +1,156 @@
 # Hey, I'm Omar 👋
 
-### Software Engineering Student | Full-Stack Developer
+### Aspiring Software Engineer | Software Engineering Student
 
-I'm a Software Engineering student passionate about **software development, web technologies, and building practical applications**.
+I'm a Software Engineering student at **Cairo University** passionate about building software, exploring web technologies, and solving real-world problems.
 
-Currently focused on expanding my skills in **Full-Stack Web Development**, while exploring **DevOps, Cloud Computing, Networking, and Cybersecurity**.
+Currently developing my skills in **Full-Stack Web Development** while exploring **DevOps, Networking, Linux, and Cybersecurity**.
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-* 🎓 Software Engineering Student
-* 💻 Interested in Full-Stack Web Development
-* 🌐 Currently working with **JavaScript and modern web technologies**
-* ⚡ Learning **Node.js, Express, Angular & MongoDB**
-* 🧠 Interested in **Software Engineering, OOP & Data Structures**
-* ☁️ Exploring **DevOps & Cloud Computing**
-* 🔐 Exploring **Networking & Cybersecurity**
-* 🚀 Always learning and building new projects
+* 🎓 Software Engineering Student at Cairo University
+* 💻 Interested in Software & Full-Stack Development
+* 🌐 Currently training in the **MEAN Stack**
+* 🧠 Strong foundation in **C/C++, OOP & Data Structures**
+* ⚙️ Familiar with **Git, GitHub & DevOps fundamentals**
+* 🐧 Learning **Linux & Networking**
+* 🔐 Interested in **Cybersecurity**
+* 🎨 Interested in UI/UX and design
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=csharp\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java,verilog" />
+</p>
 
-### Frontend
+### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square\&logo=angular\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,express,mongodb,mysql" />
+</p>
 
-### Backend & Database
+### ⚙️ Tools & Technologies
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,figma" />
+</p>
 
-### Tools & Technologies
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square\&logo=cisco\&logoColor=white)
+**Also familiar with:** SQL · DevOps Fundamentals · Networking Fundamentals · Adobe XD · JIRA · Microsoft Office
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-JavaScript
-    ↓
-Node.js + Express
-    ↓
-Angular
-    ↓
-MongoDB
-    ↓
-Full-Stack Development
+MEAN Stack
+    │
+    ├── MongoDB
+    ├── Express.js
+    ├── Angular
+    └── Node.js
+            │
+            ▼
+      Full-Stack Development
 ```
 
-I'm also expanding my knowledge in:
+I'm also continuing to explore:
 
-**DevOps · Cloud Computing · Networking · Cybersecurity**
-
----
-
-## 🎯 Goals
-
-My goal is to become a well-rounded **Software Engineer** capable of designing, developing, and maintaining reliable software systems.
-
-I'm particularly interested in combining:
-
-**Software Development + Problem Solving + Infrastructure**
+**DevOps · Linux · Networking · Cybersecurity**
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Activity
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/omar-osama-2-o/)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/omarosama16)
+### 🔥 Keep Building
+
+![GitHub Streak](https://streak-stats.demolab.com?user=omarosama16\&theme=github-dark-blue\&hide_border=true)
+
+<br/>
+
+### 📈 GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarosama16&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+
+</div>
 
 ---
 
-### 💡 Always Learning. Always Building.
+## 🐍 Contribution Activity
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/omarosama16/omarosama16/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🎯 What I'm Working Towards
+
+```text
+Software Engineering
+        │
+        ├── Full-Stack Development
+        │
+        ├── DevOps
+        │
+        ├── Cloud Computing
+        │
+        ├── Networking
+        │
+        └── Cybersecurity
+```
+
+My goal is to become a well-rounded **Software Engineer** capable of designing, developing, testing, and deploying reliable software systems.
+
+---
+
+## 🤝 Experience & Activities
+
+### 🛡️ IEEE CUSB — Cybersecurity Committee
+
+Hands-on training in:
+
+* Web Application Security
+* Penetration Testing
+* OWASP Vulnerabilities
+* Linux
+* Networking
+* Security Assessment
+
+### 👥 IEEE FCIH SB — HR Member
+
+🏆 **Best Member in Phase One**
+
+Focused on teamwork, communication, accountability, and driving team progress.
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+  <a href="https://github.com/omarosama16">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/omar-osama-2-o">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Build. Learn. Improve. Repeat.
+
+</div>
