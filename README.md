@@ -70,9 +70,13 @@ I'm also continuing to explore:
 
 ### 🔥 Keep Building
 
-<img src="https://github-stats-extended.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omarosama16&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=omarosama16&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omarosama16&theme=github-dark-blue&hide_border=true" height="180"/>
 
 </div>
 
