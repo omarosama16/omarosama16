@@ -35,7 +35,7 @@ Currently developing my skills in **Full-Stack Web Development** while exploring
   <img src="https://skillicons.dev/icons?i=html,css,react,angular,nodejs,express,mongodb,mysql" />
 </p>
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools & Technologies 
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,figma" />
