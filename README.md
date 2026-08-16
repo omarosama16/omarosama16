@@ -1,7 +1,7 @@
 # Hey, I'm Omar Osama
 
 ### Aspiring Software Engineer | Software Engineering Student
-
+ 
 I'm a Software Engineering student at **Cairo University** passionate about building software, exploring web technologies, and solving real-world problems.
 
 Currently developing my skills in **Full-Stack Web Development** while exploring **DevOps, Networking, Linux, and Cybersecurity**.
