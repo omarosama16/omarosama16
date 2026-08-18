@@ -43,9 +43,10 @@ I'm a **Software Engineering student** who enjoys building practical application
 ## 📊 GitHub
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="400" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarosama16&layout=compact&theme=github_dark&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarosama16&layout=compact&theme=github_dark&hide_border=true" width="400" />
+
 </div>
 
 ---
