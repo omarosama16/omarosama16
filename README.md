@@ -30,7 +30,10 @@ Learning new technologies
 ```
 
 ---
+## GitHub
 
+<p> <img src="https://github-readme-stats.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="160"/> </p>
+---
 ## Connect
 
 <a href="https://github.com/omarosama16">
