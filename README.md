@@ -20,7 +20,7 @@
 
 ---
 
-## ⚡ About
+##  About
 
 I'm a **Software Engineering student** who enjoys building practical applications, experimenting with new technologies, and turning ideas into real projects.
 
@@ -30,7 +30,7 @@ I'm a **Software Engineering student** who enjoys building practical application
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
 
