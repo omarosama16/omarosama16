@@ -1,36 +1,67 @@
+<div align="center">
+
 # Omar Osama
 
-**Software Engineering Student · Developer · Builder**
+### `Software Engineering Student` · `Developer` · `Builder`
 
-I build practical software, explore new technologies, and learn by shipping real projects.
-
-### Focus
-
-`Software Engineering` · `Web Development` · `Backend Development`
-
-### Tech
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,angular,nodejs,express,mongodb,mysql,git,github" />
-</p>
-
-### Currently
-
-Building projects. Improving my fundamentals. Learning something new every day.
-
-### GitHub
-
-<a href="https://github.com/omarosama16">
-  <img src="https://img.shields.io/github/followers/omarosama16?style=flat&label=Followers&color=181717" />
-</a>
-<a href="https://github.com/omarosama16?tab=repositories">
-  <img src="https://img.shields.io/github/stars/omarosama16?style=flat&label=Stars&color=181717" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-world+projects;Learning+by+building;Turning+ideas+into+software" />
 
 <br>
 
-[GitHub](https://github.com/omarosama16) · [LinkedIn](https://www.linkedin.com/)
+<a href="https://github.com/omarosama16">
+<img src="https://img.shields.io/github/followers/omarosama16?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+<a href="https://github.com/omarosama16?tab=repositories">
+<img src="https://img.shields.io/badge/Projects-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
 
 ---
 
+## ⚡ About
+
+I'm a **Software Engineering student** who enjoys building practical applications, experimenting with new technologies, and turning ideas into real projects.
+
+🎓 Cairo University
+💻 Web & Backend Development
+🚀 Learning by building
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,bootstrap,angular,nodejs,express,mongodb,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarosama16&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something great.
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
 <sub>Build · Learn · Improve</sub>
+
+</div>
