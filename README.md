@@ -40,18 +40,6 @@ I'm a **Software Engineering student** who enjoys building practical application
 
 ---
 
-## 📊 GitHub
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarosama16&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
----
-
 <div align="center">
 
 ### Let's build something great.
