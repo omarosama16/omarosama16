@@ -43,13 +43,9 @@ I'm a **Software Engineering student** who enjoys building practical application
 <div align="center">
 
 ### Let's build something great.
-
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <br><br>
-
 <sub>Build · Learn · Improve</sub>
-
 </div>
