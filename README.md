@@ -2,7 +2,7 @@
 
 # Omar Osama
 
-### `Software Engineering Student` · `Developer` · `Builder`
+### `Software Engineering Student` · `FullStack Developer` · `MEAN STACK`
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-world+projects;Learning+by+building;Turning+ideas+into+software" />
 
