@@ -34,7 +34,7 @@ I'm a **Software Engineering student** who enjoys building practical application
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,bootstrap,angular,nodejs,express,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,verilog,java,python,javascript,typescript,html,css,bootstrap,angular,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
 
 </p>
 
