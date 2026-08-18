@@ -24,8 +24,8 @@
 
 I'm a **Software Engineering student** who enjoys building practical applications, experimenting with new technologies, and turning ideas into real projects.
 
-🎓 Cairo University
-💻 Web & Backend Development
+🎓 Computer Science @ Cairo University
+💻 Fullstack Development
 🚀 Learning by building
 
 ---
