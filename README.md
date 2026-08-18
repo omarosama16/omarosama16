@@ -1,48 +1,36 @@
-# Hey, I'm Omar Osama 👋
+# Omar Osama
 
-### Software Engineering Student & Developer
+**Software Engineering Student · Developer · Builder**
 
-I'm a Software Engineering student who enjoys building practical software and learning by creating real-world projects.
+I build practical software, explore new technologies, and learn by shipping real projects.
 
-* 🎓 Software Engineering @ Cairo University
-* 💻 Interested in Web & Backend Development
-* 🌱 Currently learning **Angular, Node.js, Express.js & MongoDB**
-* 🚀 Always building, learning, and improving
+### Focus
 
----
+`Software Engineering` · `Web Development` · `Backend Development`
 
-## Tech Stack
+### Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,bootstrap,angular,nodejs,express,mongodb,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,angular,nodejs,express,mongodb,mysql,git,github" />
 </p>
 
----
+### Currently
 
-## Currently
+Building projects. Improving my fundamentals. Learning something new every day.
 
-```text
-Building projects
-     ↓
-Improving my software engineering skills
-     ↓
-Learning new technologies
-```
-
----
-## GitHub
-
-<p> <img src="https://github-readme-stats.vercel.app/api?username=omarosama16&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" height="160"/> </p>
----
-## Connect
+### GitHub
 
 <a href="https://github.com/omarosama16">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/followers/omarosama16?style=flat&label=Followers&color=181717" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://github.com/omarosama16?tab=repositories">
+  <img src="https://img.shields.io/github/stars/omarosama16?style=flat&label=Stars&color=181717" />
 </a>
 
-<br><br>
+<br>
 
-*Build. Learn. Improve.*
+[GitHub](https://github.com/omarosama16) · [LinkedIn](https://www.linkedin.com/)
+
+---
+
+<sub>Build · Learn · Improve</sub>
