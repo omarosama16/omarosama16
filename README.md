@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+real-world+projects;Learning+by+building;Turning+ideas+into+software" />
 
 <br>
-
+ 
 <a href="https://github.com/omarosama16">
 <img src="https://img.shields.io/github/followers/omarosama16?style=for-the-badge&logo=github&label=Followers" />
 </a>
