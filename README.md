@@ -1,6 +1,6 @@
 <div align="center">
 
-# Omar Osama
+# Omar Osama 
 
 ### `Software Engineering Student` · `FullStack Developer` · `MEAN STACK`
 
